@@ -1,0 +1,26 @@
+{
+    "id": "BC6E08D9",
+    "path": "F:/00forensicgenetics/2022.07.01 R package/KINSIMU/R/pedisimu.R",
+    "project_path": "R/pedisimu.R",
+    "type": "r_source",
+    "hash": "4209925730",
+    "contents": "",
+    "dirty": false,
+    "created": 1684809831269.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,168",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684809890,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684809890279,
+    "read_only": false,
+    "read_only_alternatives": []
+}
